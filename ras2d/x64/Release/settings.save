@@ -1,0 +1,25 @@
+{
+    "game settings": {
+        "fullscreen": false,
+        "key binds": {
+            "camera down": 74,
+            "camera left": 71,
+            "camera right": 72,
+            "camera up": 73,
+            "crouch": 18,
+            "left": 0,
+            "menu toggle": 12,
+            "right": 3,
+            "up": 22,
+            "zoom in": 25,
+            "zoom out": 23
+        },
+        "vsync": true
+    },
+    "game values": {
+        "health": 100,
+        "max health": 100
+    },
+    "major": 0,
+    "minor": 0
+}
