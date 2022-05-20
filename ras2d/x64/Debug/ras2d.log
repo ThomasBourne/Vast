@@ -1,6 +1,0 @@
-﻿  ras2d.cpp
-  savestate.c
-C:\dev\ras2d\save\savestate.c(54,8): warning C4473: 'scanf' : not enough arguments passed for format string
-C:\dev\ras2d\save\savestate.c(54,8): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
-C:\dev\ras2d\save\savestate.c(54,8): message : the missing variadic argument 1 is required by format string '%s'
-  ras2d.vcxproj -> C:\dev\ras2d\x64\Debug\ras2d.exe
