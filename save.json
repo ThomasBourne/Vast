@@ -1,0 +1,31 @@
+R"({
+  "major": 0,
+  "minor": 0,
+  "game values": {
+    "health": 100,
+    "max health": 100
+  },
+  "game settings": {
+    "vsync": true,
+    "fullscreen": false,
+    "minimap": true,
+    "show fps": true,
+    "key binds": {
+      "up": 22,
+      "sprint": 38,
+      "left": 0,
+      "right": 3,
+      "camera up": 73,
+      "camera down": 74,
+      "camera left": 71,
+      "camera right": 72,
+      "zoom in": 25,
+      "zoom out": 23,
+      "rotate left": 49,
+      "rotate right": 50,
+      "menu toggle": 12,
+      "toggle free camera": 4,
+      "toggle minimap": 7
+    }
+  }
+})"
